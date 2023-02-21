@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-$ go install github.com/ta2min/go-awsp
+$ go install github.com/ta2min/go-awsp@lates
 ```
 
 Add the following to ~/.bashrc or ~/.zshrc 
